@@ -1,0 +1,13 @@
+ModelName	Celltype
+AST-PP_ridge.pkl	AST-PP
+IN-PV_ridge.pkl	IN-PV
+IN-SST_ridge.pkl	IN-SST
+IN-SV2C_ridge.pkl	IN-SV2C
+IN-VIP_ridge.pkl	IN-VIP
+L2_3_ridge.pkl	L2_3
+L4_ridge.pkl	L4
+L5_6_ridge.pkl	L5_6
+L5_6-CC_ridge.pkl	L5_6-CC
+Microglia_ridge.pkl	Microglia
+Oligodendrocytes_ridge.pkl	Oligodendrocytes
+OPC_ridge.pkl	OPC
