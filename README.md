@@ -105,7 +105,7 @@ sbatch 0_chromatin.sh
 
  [1_exp.ipynb](https://github.com/YutingFu27/MetaBrain-framework/blob/main/Model/MetaBrain-Expression/example/1_exp.ipynb)   
 
-Example data can be downloaded [here](https://github.com/calico/scBasset/blob/main/examples/download.ipynb)   
+####### Example data can be downloaded [here](https://github.com/calico/scBasset/blob/main/examples/download.ipynb)   
 
 
 
