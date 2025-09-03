@@ -67,7 +67,7 @@ library(Signac)
 
 ###### (1) Prepare scATAC-seq datasets
 
-[0_dataset_pre.ipynb](https://github.com/calico/scBasset/blob/main/examples/download.ipynb)   
+[0_dataset_pre.ipynb](https://github.com/YutingFu27/MetaBrain-framework/blob/main/Model/MetaBrain-Regulatory/example/0_dataset_pre.ipynb)   
 
 Example data can be downloaded [here](https://github.com/calico/scBasset/blob/main/examples/download.ipynb)   
 
@@ -83,7 +83,9 @@ sbatch 1_run_model_train.sh
 
 ###### (3) Evaluate
 
-[2_Evaluate.ipynb](https://github.com/calico/scBasset/blob/main/examples/download.ipynb)   
+[2_Evaluate.ipynb](https://github.com/YutingFu27/MetaBrain-framework/blob/main/Model/MetaBrain-Regulatory/example/2_evaluate.ipynb)   
+
+
 
 
 
@@ -99,9 +101,9 @@ sbatch 0_chromatin.sh
 
 
 
-###### (2) Prepare scATAC-seq datasets
+###### (2) Prepare scRNA-seq datasets
 
- [1_exp.ipynb](https://github.com/calico/scBasset/blob/main/examples/download.ipynb)   
+ [1_exp.ipynb](https://github.com/YutingFu27/MetaBrain-framework/blob/main/Model/MetaBrain-Expression/example/1_exp.ipynb)   
 
 Example data can be downloaded [here](https://github.com/calico/scBasset/blob/main/examples/download.ipynb)   
 
@@ -109,4 +111,4 @@ Example data can be downloaded [here](https://github.com/calico/scBasset/blob/ma
 
 ###### (3) Regression
 
-[2_ridge.ipynb](https://github.com/calico/scBasset/blob/main/examples/download.ipynb)   
+[2_ridge.ipynb](https://github.com/YutingFu27/MetaBrain-framework/blob/main/Model/MetaBrain-Expression/example/2_ridge.ipynb)   
