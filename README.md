@@ -63,7 +63,7 @@ library(Signac)
 
 
 
-#### MetaBrain-Regulatory
+#### MetaBrain-Reg
 
 ###### (1) Prepare scATAC-seq datasets
 
@@ -91,7 +91,7 @@ sbatch 1_run_model_train.sh
 
 
 
-#### MetaBrain-Expression
+#### MetaBrain-Exp
 
 ###### (1) generate chromatin feature 
 
@@ -112,3 +112,18 @@ Example data can be downloaded [here](https://bis.zju.edu.cn/BrainCis/download.h
 ###### (3) Regression
 
 [2_ridge.ipynb](https://github.com/YutingFu27/MetaBrain-framework/blob/main/Model/MetaBrain-Expression/example/2_ridge.ipynb)   
+
+
+## Tutorial: Predicting Genetic Variant Effects with MetaBrain
+
+###### MetaBrain Regulatory Score
+
+```shell
+sbatch MBRS.sh
+```
+
+###### MetaBrain Expression Score
+
+```shell
+sbatch MBES.sh
+```
