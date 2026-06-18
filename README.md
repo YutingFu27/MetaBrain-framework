@@ -79,6 +79,11 @@ Example data can be downloaded [here](https://bis.zju.edu.cn/BrainCis/download.h
 sbatch 1_run_model_train.sh
 ```
 
+###### (2) Finetune
+```shell
+sbatch 1_run_model_finetune.sh
+```
+
 
 
 ###### (3) Evaluate
