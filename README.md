@@ -59,7 +59,7 @@ library(Signac)
 
 
 
-## Tutorial: Training MetaBrain on single-cell multi-omics datasets (human frontal cortex)  
+## Tutorial: Training MetaBrain on single-cell dual-omics datasets (human frontal cortex)  
 
 
 
@@ -73,13 +73,13 @@ Example data can be downloaded [here](https://bis.zju.edu.cn/BrainCis/download.h
 
 
 
-###### (2) Train 
+###### (2) Train (mode1)
 
 ```shell
 sbatch 1_run_model_train.sh
 ```
 
-###### (2) Finetune
+###### (2) Finetune (mode2)
 ```shell
 sbatch 1_run_model_finetune.sh
 ```
