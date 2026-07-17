@@ -8,7 +8,7 @@
 #SBATCH --error=%J.err
 #SBATCH --nodelist=gpu01
 export PATH= ~/anaconda3/envs/pytorch/bin/:$PATH
-pretrained_dir= ~/FYT/AI/CodeTest/20240411_beluga/train/20240825_train/model_output/
+pretrained_dir= pretrained/
 python Train.py \
     --data Humanbrain.sample.h5 \
     --lr 1e-4 \
