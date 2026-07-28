@@ -1,6 +1,6 @@
 # MetaBrain
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21638728.svg)](https://doi.org/10.5281/zenodo.21638728)
-**MetaBrain** is a dual-module deep learning framework, trained on multi-omics human brain data at single-cell resolution, jointly predicts single-cell chromatin accessibility and gene expression solely from sequence. 
+**MetaBrain** is a dual-module deep learning framework, trained on human brain data at single-cell resolution, jointly predicts single-cell chromatin accessibility and gene expression solely from sequence. 
 
 <img src="https://github.com/YutingFu27/MetaBrain-framework/blob/main/Image/MetaBrain_arch.jpg" width=100% height=100%>
 
